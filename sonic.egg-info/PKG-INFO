@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: sonic
+Version: 4.0.0
+Summary: SONIC Tagger v4: AE + Chebyshev DDT2D + DisCo + JSD gating
+Requires-Python: >=3.11
+Requires-Dist: torch>=2.0
+Requires-Dist: numpy>=1.24
+Requires-Dist: pandas>=1.5
+Requires-Dist: scipy>=1.10
+Requires-Dist: scikit-learn>=1.2
+Requires-Dist: matplotlib>=3.7
+Requires-Dist: tqdm>=4.65

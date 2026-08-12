@@ -1,0 +1,6 @@
+pyproject.toml
+sonic.egg-info/PKG-INFO
+sonic.egg-info/SOURCES.txt
+sonic.egg-info/dependency_links.txt
+sonic.egg-info/requires.txt
+sonic.egg-info/top_level.txt
